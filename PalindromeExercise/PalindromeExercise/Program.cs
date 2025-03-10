@@ -10,7 +10,7 @@ namespace PalindromeExercise
             // Entered code into the 'Main' program to test functionality of finding a palindrome.
 
             Console.WriteLine("Type the SAME WORD TWICE to test whether its a palindrome.  Hit 'Enter' after each word entered.");
-            
+            Console.WriteLine("If the word is a palindrome, the program will answer 'TRUE'.");
             // Requesting input from the user
 
             //INPUT 1
